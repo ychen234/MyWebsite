@@ -30,6 +30,6 @@ I'm a Cornell Master of Engineering student studying **Operations Research and I
 #### Teaching Assistant @ University of Rochester
 * Held weekly recitation and office hours to help students improve class understanding, graded exams.
 
-#### Learn more about what projects I did [here](/projects.html).
+#### Learn more about what projects I did [here](/MyWebsite/projects.html).
 
-#### Connect [here](/contact.html).
+#### Connect [here](/MyWebsite/contact.html).
