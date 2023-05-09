@@ -1,30 +1,26 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Bio
 
-There are currently two themes built on Poole:
+I'm from Beijing, China. In the U.S., I completed my undergrad at University of Rochester where I double majored in **Data Science** and **Brain & Cognitive Sciences** with a minor in **Psychology**. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+To furthur develop my quantitative skills and leadership capability, I studied **Operations Research and Information Engineering** at Cornell University, in which I focused on utilizing **data analytics** to generate operational and business insights.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Learn more about what projects I did [here](/projects.html).
 
-## Setup
 
-Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+### Thoughts
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Knowledge and skills that people possess are by no means scattered information or random actions, but most of them have certain “structures”. These “structures” are the models and **heuristics of the mind** that are developed through learning and vital in helping people perceive the world, analyze information, and make better decisions. 
 
-Thanks for reading!
+Through my experience in learning and modeling human perception and cognition, I found that such models can be applied to practically any field, not only to natural science but also other domains such as the business field. 
+
+As a next step, I wish to learn about the models in business, continue to develop my strong suit in data analytics and modeling and contribute to **advanced problem-solving and decision-making** under industry settings.
+
+
+#### Connect [here](/contact.html).
